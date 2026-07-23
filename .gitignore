@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+TRAIN/
+VAL/
+TEST/
+TRAIN_CROP/
+VAL_CROP/
+TEST_CROP/
+augmented-images/
+brain_tumor_resnet_work/
+
